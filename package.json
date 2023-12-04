@@ -3,6 +3,7 @@
     "typescript": "^5.3.2"
   },
   "scripts": {
-    "concept1": "tsc && node dist/encapsulation.js"
+    "concept1": "tsc && node dist/encapsulation.js",
+    "concept2": "tsc && node dist/inheritance.js"
   }
 }

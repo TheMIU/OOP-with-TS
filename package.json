@@ -4,6 +4,7 @@
   },
   "scripts": {
     "concept1": "tsc && node dist/encapsulation.js",
-    "concept2": "tsc && node dist/inheritance.js"
+    "concept2": "tsc && node dist/inheritance.js",
+    "concept3": "tsc && node dist/polymorphism.js"
   }
 }

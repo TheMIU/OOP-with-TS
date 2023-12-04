@@ -26,7 +26,7 @@ class Student {
     }
 }
 
-// implementation
+// usage
 let student = new Student();
 
 student.setName("John");

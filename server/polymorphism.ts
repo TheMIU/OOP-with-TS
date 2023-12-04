@@ -37,6 +37,6 @@ class Car extends Vehicle {
     }
 }
 
-// implementation
+// usage
 let vehicle: Vehicle = new Car();
 vehicle.drive(); // Driving a Car

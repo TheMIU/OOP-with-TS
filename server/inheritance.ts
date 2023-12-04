@@ -12,6 +12,6 @@ class Dog extends Animal {
 
 }
 
-// implementation
+// usage
 let dog = new Dog();
 dog.walk();

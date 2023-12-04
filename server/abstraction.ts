@@ -12,6 +12,6 @@ class Samsung implements Phone{
     }
 }
 
-// user
+// usage
 let phone: Phone = new Samsung();
 phone.powerOn();

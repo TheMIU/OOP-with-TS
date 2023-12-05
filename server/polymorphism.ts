@@ -16,7 +16,7 @@ class Numbers {
     }
 }
 
-// implementation
+// usage
 const numbers = new Numbers();
 numbers.num(); // No param method invoked
 numbers.num(5); // One param method invoked
